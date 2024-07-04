@@ -1,0 +1,122 @@
+       body {
+            margin: 0;
+            font-family: 'League Gothic', sans-serif;
+            background-color: #000;
+        }
+
+        header {
+            height: 60px;
+            width: 100%;
+            background-color: #000000;
+            color: #000000;
+            text-align: center;
+            line-height: 40px;
+        }
+        header img
+        {
+            height: 60px;
+            width: auto;
+        }
+
+        nav {
+            text-align: center;
+            background-color: #1e1e1e;
+        }
+
+        nav a {
+            padding: 14px 20px;
+            display: inline-block;
+            text-decoration: none;
+            color: #fff;
+        }
+
+        section {
+            margin-top: 0;
+            padding: 20px;
+            height:1700px;
+            background-color: #000;
+            color: #fff;
+        }
+        section img
+        {
+            height: 400px;
+            width:100%
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #1e1e1e;
+            color: #fff;
+            
+        }
+        
+        #sec{
+            padding: 18px;
+            height:  300px;
+        }
+        
+        #sec img{
+            float: left;
+            height: 220px;
+            width: 220px;
+        
+            
+        }
+        #sec p{
+            text-indent: 30px;
+            font-family: verdana;
+            text-align: justify;
+            color:white;
+            
+        }
+        
+        .pctr {
+            height: 220px;
+            width: 220px;
+            display: inline-block; 
+        }
+
+        #tat{
+            padding: 20px;
+            height:  300px;
+        }
+        
+        #tat img{
+            margin: 20 20 20 20;
+            float: left;
+            height: 300px;
+            width:300px;
+        
+            
+        }
+        #tat p{
+            text-indent: 30px;
+            font-family: verdana;
+            text-align: justify;
+            color:white;
+            
+        }
+        
+        .tpctr {
+            height:300px;
+            width: 300px;
+            display: inline-block; 
+        }
+        #box
+        {
+            width: 780px;
+            background: #000;
+            padding: 10px;
+            margin: auto;
+            text-align: center;
+        }
+
+        #sectn {
+            margin-top: 0;
+            padding: 20px;
+            height:600px;
+            background-color: #000;
+            color: #fff;
+        }
+       
